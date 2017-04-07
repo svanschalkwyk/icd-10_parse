@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="org.json4s:json4s-jackson_2.10:3.2.10" type="repository">
+    <properties maven-id="org.json4s:json4s-jackson_2.10:3.2.10" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/json4s/json4s-jackson_2.10/3.2.10/json4s-jackson_2.10-3.2.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.0/scala-library-2.10.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/json4s/json4s-core_2.10/3.2.10/json4s-core_2.10-3.2.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/json4s/json4s-ast_2.10/3.2.10/json4s-ast_2.10-3.2.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/thoughtworks/paranamer/paranamer/2.6/paranamer-2.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scalap/2.10.0/scalap-2.10.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-compiler/2.10.0/scala-compiler-2.10.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.10.0/scala-reflect-2.10.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.3.1/jackson-databind-2.3.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.3.1/jackson-core-2.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

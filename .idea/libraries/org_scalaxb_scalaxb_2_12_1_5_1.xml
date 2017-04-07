@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="org.scalaxb:scalaxb_2.12:1.5.1" type="repository">
+    <properties maven-id="org.scalaxb:scalaxb_2.12:1.5.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scalaxb/scalaxb_2.12/1.5.1/scalaxb_2.12-1.5.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.1/scala-library-2.12.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/scopt/scopt_2.12/3.5.0/scopt_2.12-3.5.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/modules/scala-parser-combinators_2.12/1.0.4/scala-parser-combinators_2.12-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
